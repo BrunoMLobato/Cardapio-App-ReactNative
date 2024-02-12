@@ -7,7 +7,7 @@ Utilizamos o React Native para desenvolver um aplicativo móvel. Este aplicativo
 </p>
 <br>
 
-| <img src="https://github.com/BrunoMLobato/Cardapio-App-ReactNative/assets/108697633/6f9e4d9c-f9e8-499e-9d1c-09ef23341d63" width=200 ><br><sub>Tela Principal</sub> | <img src="https://github.com/BrunoMLobato/Cardapio-App-ReactNative/assets/108697633/f352465e-5d51-4a35-bad0-37d1cb2e6dcf" width=200><br><sub>Tela do Produto</sub> | <img src="https://github.com/BrunoMLobato/Cardapio-App-ReactNative/assets/108697633/5c2ce7e3-1b50-402e-b829-2bf9063d7adc" width=200><br><sub>Tela do Carrinho</sub>
+| <img src="https://github.com/BrunoMLobato/Cardapio-App-ReactNative/assets/108697633/6f9e4d9c-f9e8-499e-9d1c-09ef23341d63" width=300 ><br><sub>Tela Principal</sub> | <img src="https://github.com/BrunoMLobato/Cardapio-App-ReactNative/assets/108697633/f352465e-5d51-4a35-bad0-37d1cb2e6dcf" width=300><br><sub>Tela do Produto</sub> | <img src="https://github.com/BrunoMLobato/Cardapio-App-ReactNative/assets/108697633/5c2ce7e3-1b50-402e-b829-2bf9063d7adc" width=300><br><sub>Tela do Carrinho</sub>
 | :---: | :---: | :---: |
 <br>
 
