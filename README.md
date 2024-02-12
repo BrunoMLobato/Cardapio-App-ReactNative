@@ -47,6 +47,5 @@ Para rodar o projeto corretamente deve-se instalar:  EXPO, TAILWIND, BABEL, KEYB
 * `npm i react-native-keyboard-aware-scroll-view --save` --> Para instalar o pacote KeyboardAwareScrollView.
 * `npm install zustand` --> Para instalar o pacote Zustand
 <br>
-
 ➡️ Para rodar o projeto:
 * `npx expo start` --> Iniciar projeto.
